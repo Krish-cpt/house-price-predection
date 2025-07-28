@@ -1,4 +1,4 @@
-# house-price-predection# 🏠 House Price Prediction
+# house-price-prediction# 🏠 House Price Prediction
 
 This project uses **Linear Regression** to predict house prices based on:
 - Square footage
